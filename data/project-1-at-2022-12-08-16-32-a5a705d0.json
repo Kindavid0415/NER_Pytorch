@@ -1,0 +1,3218 @@
+[
+  {
+    "text": " 下列各计算机部件中不是输入设备的是( ) A.键盘 B.鼠标 C.显示器 D.扫描仪 正确答案： C 关联评价点的名称：个人计算机现场接线 ",
+    "id": 50,
+    "label": [
+      {
+        "start": 1,
+        "end": 21,
+        "text": "下列各计算机部件中不是输入设备的是( )",
+        "labels": [
+          "stem"
+        ]
+      },
+      {
+        "start": 22,
+        "end": 26,
+        "text": "A.键盘",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 27,
+        "end": 31,
+        "text": "B.鼠标",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 32,
+        "end": 37,
+        "text": "C.显示器",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 38,
+        "end": 43,
+        "text": "D.扫描仪",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 44,
+        "end": 51,
+        "text": "正确答案： C",
+        "labels": [
+          "answer"
+        ]
+      },
+      {
+        "start": 52,
+        "end": 70,
+        "text": "关联评价点的名称：个人计算机现场接线",
+        "labels": [
+          "class"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 49,
+    "created_at": "2022-12-08T08:10:08.248187Z",
+    "updated_at": "2022-12-08T08:10:08.248187Z",
+    "lead_time": 19.161
+  },
+  {
+    "text": " 微型计算机系统中的中央处理器(CPU)是由( )组成 A.控制器和运算器 B.控制器和存储器 C.存储器和控制器 D.运算器和存储器 正确答案： A 关联评价点的名称：个人计算机现场接线 ",
+    "id": 49,
+    "label": [
+      {
+        "start": 1,
+        "end": 27,
+        "text": "微型计算机系统中的中央处理器(CPU)是由( )组成",
+        "labels": [
+          "stem"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 37,
+        "text": "A.控制器和运算器",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 38,
+        "end": 47,
+        "text": "B.控制器和存储器",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 48,
+        "end": 57,
+        "text": "C.存储器和控制器",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 58,
+        "end": 67,
+        "text": "D.运算器和存储器",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 68,
+        "end": 75,
+        "text": "正确答案： A",
+        "labels": [
+          "answer"
+        ]
+      },
+      {
+        "start": 76,
+        "end": 94,
+        "text": "关联评价点的名称：个人计算机现场接线",
+        "labels": [
+          "class"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 48,
+    "created_at": "2022-12-08T08:09:48.829717Z",
+    "updated_at": "2022-12-08T08:09:48.829717Z",
+    "lead_time": 21.228
+  },
+  {
+    "text": " ( )操作系统允许在一台主机上同时连接多台终端，多个用户可以通过各自的终端同时交互的使用计算机 A.网络 B.分布式 C.分时 D.实时 正确答案： A 关联评价点的名称：个人计算机现场接线 ",
+    "id": 48,
+    "label": [
+      {
+        "start": 1,
+        "end": 48,
+        "text": "( )操作系统允许在一台主机上同时连接多台终端，多个用户可以通过各自的终端同时交互的使用计算机",
+        "labels": [
+          "stem"
+        ]
+      },
+      {
+        "start": 49,
+        "end": 53,
+        "text": "A.网络",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 54,
+        "end": 59,
+        "text": "B.分布式",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 60,
+        "end": 64,
+        "text": "C.分时",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 65,
+        "end": 69,
+        "text": "D.实时",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 70,
+        "end": 77,
+        "text": "正确答案： A",
+        "labels": [
+          "answer"
+        ]
+      },
+      {
+        "start": 78,
+        "end": 96,
+        "text": "关联评价点的名称：个人计算机现场接线",
+        "labels": [
+          "class"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 47,
+    "created_at": "2022-12-08T08:09:27.298826Z",
+    "updated_at": "2022-12-08T08:09:27.298826Z",
+    "lead_time": 20.1
+  },
+  {
+    "text": " 下列( )存储管理方式能使存储碎片尽可能少，而且使内存利用率较高 A.固定分区 B.可变分区 C.分页管理 D.段页式管理 正确答案： D 关联评价点的名称：个人计算机现场接线 ",
+    "id": 47,
+    "label": [
+      {
+        "start": 1,
+        "end": 33,
+        "text": "下列( )存储管理方式能使存储碎片尽可能少，而且使内存利用率较高",
+        "labels": [
+          "stem"
+        ]
+      },
+      {
+        "start": 34,
+        "end": 40,
+        "text": "A.固定分区",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 41,
+        "end": 47,
+        "text": "B.可变分区",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 48,
+        "end": 54,
+        "text": "C.分页管理",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 55,
+        "end": 62,
+        "text": "D.段页式管理",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 63,
+        "end": 70,
+        "text": "正确答案： D",
+        "labels": [
+          "answer"
+        ]
+      },
+      {
+        "start": 71,
+        "end": 89,
+        "text": "关联评价点的名称：个人计算机现场接线",
+        "labels": [
+          "class"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 46,
+    "created_at": "2022-12-08T08:09:06.933021Z",
+    "updated_at": "2022-12-08T08:09:06.933021Z",
+    "lead_time": 18.916
+  },
+  {
+    "text": " 一个40G的硬盘，块的大小为1K，其FAT要占( )空间 A.100M B.120M C.140M D.160M 正确答案： C 关联评价点的名称：个人计算机现场接线 ",
+    "id": 46,
+    "label": [
+      {
+        "start": 1,
+        "end": 29,
+        "text": "一个40G的硬盘，块的大小为1K，其FAT要占( )空间",
+        "labels": [
+          "stem"
+        ]
+      },
+      {
+        "start": 30,
+        "end": 36,
+        "text": "A.100M",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 37,
+        "end": 43,
+        "text": "B.120M",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 44,
+        "end": 50,
+        "text": "C.140M",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 51,
+        "end": 57,
+        "text": "D.160M",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 58,
+        "end": 65,
+        "text": "正确答案： C",
+        "labels": [
+          "answer"
+        ]
+      },
+      {
+        "start": 66,
+        "end": 84,
+        "text": "关联评价点的名称：个人计算机现场接线",
+        "labels": [
+          "class"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 45,
+    "created_at": "2022-12-08T08:08:47.752426Z",
+    "updated_at": "2022-12-08T08:08:47.752426Z",
+    "lead_time": 22.253
+  },
+  {
+    "text": " 下列选项中传输速率最高的是（）A.硬盘的高缓到内存 B.CPU到Cache C.内存到Cache D.硬盘的磁头到硬盘的高缓 正确答案： B 关联评价点的名称：个人计算机现场接线",
+    "id": 45,
+    "label": [
+      {
+        "start": 1,
+        "end": 16,
+        "text": "下列选项中传输速率最高的是（）",
+        "labels": [
+          "stem"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 26,
+        "text": "A.硬盘的高缓到内存",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 27,
+        "end": 38,
+        "text": "B.CPU到Cache",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 39,
+        "end": 49,
+        "text": "C.内存到Cache",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 50,
+        "end": 63,
+        "text": "D.硬盘的磁头到硬盘的高缓",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 64,
+        "end": 71,
+        "text": "正确答案： B",
+        "labels": [
+          "answer"
+        ]
+      },
+      {
+        "start": 72,
+        "end": 90,
+        "text": "关联评价点的名称：个人计算机现场接线",
+        "labels": [
+          "class"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 44,
+    "created_at": "2022-12-08T08:08:25.243215Z",
+    "updated_at": "2022-12-08T08:08:25.243215Z",
+    "lead_time": 19.679
+  },
+  {
+    "text": " 两台计算机利用电话线路传输数据信号时，必备的设备是（  ）A.网卡 B.调制解调器 C.中继器 D.同轴电缆 正确答案： B 关联评价点的名称：个人计算机现场接线 ",
+    "id": 44,
+    "label": [
+      {
+        "start": 1,
+        "end": 30,
+        "text": "两台计算机利用电话线路传输数据信号时，必备的设备是（ ）",
+        "labels": [
+          "stem"
+        ]
+      },
+      {
+        "start": 30,
+        "end": 34,
+        "text": "A.网卡",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 35,
+        "end": 42,
+        "text": "B.调制解调器",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 43,
+        "end": 48,
+        "text": "C.中继器",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 49,
+        "end": 55,
+        "text": "D.同轴电缆",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 56,
+        "end": 63,
+        "text": "正确答案： B",
+        "labels": [
+          "answer"
+        ]
+      },
+      {
+        "start": 64,
+        "end": 82,
+        "text": "关联评价点的名称：个人计算机现场接线",
+        "labels": [
+          "class"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 43,
+    "created_at": "2022-12-08T08:08:05.261313Z",
+    "updated_at": "2022-12-08T08:08:05.261313Z",
+    "lead_time": 23.665
+  },
+  {
+    "text": " 开机后按（）键可以进入Windows操作系统的安全模式 A.F1 B.F8 C.Delete D.Alt 正确答案： B 关联评价点的名称：个人计算机现场接线 ",
+    "id": 43,
+    "label": [
+      {
+        "start": 1,
+        "end": 28,
+        "text": "开机后按（）键可以进入Windows操作系统的安全模式",
+        "labels": [
+          "stem"
+        ]
+      },
+      {
+        "start": 29,
+        "end": 33,
+        "text": "A.F1",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 34,
+        "end": 38,
+        "text": "B.F8",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 39,
+        "end": 47,
+        "text": "C.Delete",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 48,
+        "end": 53,
+        "text": "D.Alt",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 54,
+        "end": 61,
+        "text": "正确答案： B",
+        "labels": [
+          "answer"
+        ]
+      },
+      {
+        "start": 62,
+        "end": 80,
+        "text": "关联评价点的名称：个人计算机现场接线",
+        "labels": [
+          "class"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 42,
+    "created_at": "2022-12-08T08:07:41.345287Z",
+    "updated_at": "2022-12-08T08:07:41.345287Z",
+    "lead_time": 17.966
+  },
+  {
+    "text": " 计算机与桌面终端系统服务器通讯端口是（）？A.80 B.2388 C.2399 D.22105 正确答案： D 关联评价点的名称：个人计算机现场接线 ",
+    "id": 42,
+    "label": [
+      {
+        "start": 1,
+        "end": 22,
+        "text": "计算机与桌面终端系统服务器通讯端口是（）？",
+        "labels": [
+          "stem"
+        ]
+      },
+      {
+        "start": 22,
+        "end": 26,
+        "text": "A.80",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 27,
+        "end": 33,
+        "text": "B.2388",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 34,
+        "end": 40,
+        "text": "C.2399",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 41,
+        "end": 48,
+        "text": "D.22105",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 49,
+        "end": 56,
+        "text": "正确答案： D",
+        "labels": [
+          "answer"
+        ]
+      },
+      {
+        "start": 57,
+        "end": 75,
+        "text": "关联评价点的名称：个人计算机现场接线",
+        "labels": [
+          "class"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 41,
+    "created_at": "2022-12-08T08:07:23.106519Z",
+    "updated_at": "2022-12-08T08:07:23.106519Z",
+    "lead_time": 34.419
+  },
+  {
+    "text": " Windows下如果让ping命令一直ping某一个主机，应该使用（）参数 A.-t B.-a C.-f D.-s 正确答案： A 关联评价点的名称：计算机组成原理 ",
+    "id": 41,
+    "label": [
+      {
+        "start": 1,
+        "end": 38,
+        "text": "Windows下如果让ping命令一直ping某一个主机，应该使用（）参数",
+        "labels": [
+          "stem"
+        ]
+      },
+      {
+        "start": 39,
+        "end": 43,
+        "text": "A.-t",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 44,
+        "end": 48,
+        "text": "B.-a",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 49,
+        "end": 53,
+        "text": "C.-f",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 54,
+        "end": 58,
+        "text": "D.-s",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 59,
+        "end": 66,
+        "text": "正确答案： A",
+        "labels": [
+          "answer"
+        ]
+      },
+      {
+        "start": 67,
+        "end": 83,
+        "text": "关联评价点的名称：计算机组成原理",
+        "labels": [
+          "class"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 40,
+    "created_at": "2022-12-08T08:06:48.358345Z",
+    "updated_at": "2022-12-08T08:06:48.358345Z",
+    "lead_time": 22.224
+  },
+  {
+    "text": " Windows系统中可以通过配置（）防止用户通过多次登录尝试来猜测其他人的密码A.密码策略 B.账户锁定策略 C.kerberos策略 D.审计策略 正确答案： B 关联评价点的名称：计算机组成原理 ",
+    "id": 40,
+    "label": [
+      {
+        "start": 1,
+        "end": 40,
+        "text": "Windows系统中可以通过配置（）防止用户通过多次登录尝试来猜测其他人的密码",
+        "labels": [
+          "stem"
+        ]
+      },
+      {
+        "start": 40,
+        "end": 46,
+        "text": "A.密码策略",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 47,
+        "end": 55,
+        "text": "B.账户锁定策略",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 56,
+        "end": 68,
+        "text": "C.kerberos策略",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 69,
+        "end": 75,
+        "text": "D.审计策略",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 76,
+        "end": 83,
+        "text": "正确答案： B",
+        "labels": [
+          "answer"
+        ]
+      },
+      {
+        "start": 84,
+        "end": 100,
+        "text": "关联评价点的名称：计算机组成原理",
+        "labels": [
+          "class"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 39,
+    "created_at": "2022-12-08T08:06:25.850600Z",
+    "updated_at": "2022-12-08T08:06:25.850600Z",
+    "lead_time": 18.448
+  },
+  {
+    "text": " 在Windows命令窗口输入（）命令来查看DNS服务器的IP A.DNSserver B.Nslookup C.DNSconfig D.DNSip 正确答案： B 关联评价点的名称：计算机组成原理 ",
+    "id": 39,
+    "label": [
+      {
+        "start": 1,
+        "end": 31,
+        "text": "在Windows命令窗口输入（）命令来查看DNS服务器的IP",
+        "labels": [
+          "stem"
+        ]
+      },
+      {
+        "start": 32,
+        "end": 43,
+        "text": "A.DNSserver",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 44,
+        "end": 54,
+        "text": "B.Nslookup",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 55,
+        "end": 66,
+        "text": "C.DNSconfig",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 67,
+        "end": 74,
+        "text": "D.DNSip",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 75,
+        "end": 82,
+        "text": "正确答案： B",
+        "labels": [
+          "answer"
+        ]
+      },
+      {
+        "start": 83,
+        "end": 99,
+        "text": "关联评价点的名称：计算机组成原理",
+        "labels": [
+          "class"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 38,
+    "created_at": "2022-12-08T08:06:07.128938Z",
+    "updated_at": "2022-12-08T08:06:07.128938Z",
+    "lead_time": 29.198
+  },
+  {
+    "text": " 如果一位用户对某文件夹有普通共享的修改权限，他又对该文件夹有NTFS的读取权限，该用户对该文件夹的 最终权限是什么（）A.完全控制 B.读取 C.修改和读取 D.修改 正确答案： B 关联评价点的名称：计算机组成原理 ",
+    "id": 38,
+    "label": [
+      {
+        "start": 1,
+        "end": 60,
+        "text": "如果一位用户对某文件夹有普通共享的修改权限，他又对该文件夹有NTFS的读取权限，该用户对该文件夹的 最终权限是什么（）",
+        "labels": [
+          "stem"
+        ]
+      },
+      {
+        "start": 60,
+        "end": 66,
+        "text": "A.完全控制",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 67,
+        "end": 71,
+        "text": "B.读取",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 72,
+        "end": 79,
+        "text": "C.修改和读取",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 80,
+        "end": 84,
+        "text": "D.修改",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 85,
+        "end": 92,
+        "text": "正确答案： B",
+        "labels": [
+          "answer"
+        ]
+      },
+      {
+        "start": 93,
+        "end": 109,
+        "text": "关联评价点的名称：计算机组成原理",
+        "labels": [
+          "class"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 37,
+    "created_at": "2022-12-08T08:05:37.653496Z",
+    "updated_at": "2022-12-08T08:05:37.653496Z",
+    "lead_time": 80.162
+  },
+  {
+    "text": " 你是一台系统为Windows Server 2008的计算机的系统管理员，出于安全性的考虑，你希望如果用户连续三次输 入错误的密码，就将该用户账号锁定，应该采取（）措施 A.设置计算机账户策略中的帐户锁定策略，设置帐户锁定阈值为３ B.设置计算机本地策略中的帐户锁定策略，设置帐户锁定阈值为３ C.设置计算机本地策略中的安全选项，设置帐户锁定阈值为３ D.设置计算机帐户策略中的密码策略，设置帐户锁定阈值为３ 正确答案： A 关联评价点的名称：计算机组成原理 ",
+    "id": 37,
+    "label": [
+      {
+        "start": 1,
+        "end": 85,
+        "text": "你是一台系统为Windows Server 2008的计算机的系统管理员，出于安全性的考虑，你希望如果用户连续三次输 入错误的密码，就将该用户账号锁定，应该采取（）措施",
+        "labels": [
+          "stem"
+        ]
+      },
+      {
+        "start": 86,
+        "end": 116,
+        "text": "A.设置计算机账户策略中的帐户锁定策略，设置帐户锁定阈值为３",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 117,
+        "end": 147,
+        "text": "B.设置计算机本地策略中的帐户锁定策略，设置帐户锁定阈值为３",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 148,
+        "end": 176,
+        "text": "C.设置计算机本地策略中的安全选项，设置帐户锁定阈值为３",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 177,
+        "end": 205,
+        "text": "D.设置计算机帐户策略中的密码策略，设置帐户锁定阈值为３",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 206,
+        "end": 213,
+        "text": "正确答案： A",
+        "labels": [
+          "answer"
+        ]
+      },
+      {
+        "start": 214,
+        "end": 230,
+        "text": "关联评价点的名称：计算机组成原理",
+        "labels": [
+          "class"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36,
+    "created_at": "2022-12-08T08:04:17.223660Z",
+    "updated_at": "2022-12-08T08:04:17.223660Z",
+    "lead_time": 37.113
+  },
+  {
+    "text": " 计算机遇到网络连通性问题时，首先应先检查（）A.协议配置 B.操作系统文件是否遭到破坏 C.服务器，确定用户账户是否有效 D.物理连通性 正确答案： D 关联评价点的名称：计算机组成原理 ",
+    "id": 36,
+    "label": [
+      {
+        "start": 1,
+        "end": 23,
+        "text": "计算机遇到网络连通性问题时，首先应先检查（）",
+        "labels": [
+          "stem"
+        ]
+      },
+      {
+        "start": 23,
+        "end": 29,
+        "text": "A.协议配置",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 30,
+        "end": 44,
+        "text": "B.操作系统文件是否遭到破坏",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 45,
+        "end": 61,
+        "text": "C.服务器，确定用户账户是否有效",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 62,
+        "end": 69,
+        "text": "D.物理连通性",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 70,
+        "end": 77,
+        "text": "正确答案： D",
+        "labels": [
+          "answer"
+        ]
+      },
+      {
+        "start": 78,
+        "end": 94,
+        "text": "关联评价点的名称：计算机组成原理",
+        "labels": [
+          "class"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 35,
+    "created_at": "2022-12-08T08:03:39.858716Z",
+    "updated_at": "2022-12-08T08:03:39.858716Z",
+    "lead_time": 24.793
+  },
+  {
+    "text": " Windows环境下，输入（）命令可以取消系统每次启动对C盘的磁盘扫描程序 A.Chkntfs /F C: B.Chkntfs /D C: C.Chkntfs /T C: D.Chkntfs /X C: 正确答案： D 关联评价点的名称：计算机组成原理 ",
+    "id": 35,
+    "label": [
+      {
+        "start": 1,
+        "end": 38,
+        "text": "Windows环境下，输入（）命令可以取消系统每次启动对C盘的磁盘扫描程序",
+        "labels": [
+          "stem"
+        ]
+      },
+      {
+        "start": 39,
+        "end": 54,
+        "text": "A.Chkntfs /F C:",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 55,
+        "end": 70,
+        "text": "B.Chkntfs /D C:",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 71,
+        "end": 86,
+        "text": "C.Chkntfs /T C:",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 87,
+        "end": 102,
+        "text": "D.Chkntfs /X C:",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 103,
+        "end": 110,
+        "text": "正确答案： D",
+        "labels": [
+          "answer"
+        ]
+      },
+      {
+        "start": 111,
+        "end": 127,
+        "text": "关联评价点的名称：计算机组成原理",
+        "labels": [
+          "class"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 34,
+    "created_at": "2022-12-08T08:03:14.777274Z",
+    "updated_at": "2022-12-08T08:03:14.777274Z",
+    "lead_time": 162.547
+  },
+  {
+    "text": " 计算机显示或打印汉字时，系统使用的是汉字的（）A.机内码 B.字形码 C.输入码 D.国标码正确答案： B 关联评价点的名称：计算机组成原理 ",
+    "id": 34,
+    "label": [
+      {
+        "start": 1,
+        "end": 24,
+        "text": "计算机显示或打印汉字时，系统使用的是汉字的（）",
+        "labels": [
+          "stem"
+        ]
+      },
+      {
+        "start": 24,
+        "end": 29,
+        "text": "A.机内码",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 30,
+        "end": 35,
+        "text": "B.字形码",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 36,
+        "end": 41,
+        "text": "C.输入码",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 42,
+        "end": 47,
+        "text": "D.国标码",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 47,
+        "end": 54,
+        "text": "正确答案： B",
+        "labels": [
+          "answer"
+        ]
+      },
+      {
+        "start": 55,
+        "end": 71,
+        "text": "关联评价点的名称：计算机组成原理",
+        "labels": [
+          "class"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 33,
+    "created_at": "2022-12-08T08:00:31.645247Z",
+    "updated_at": "2022-12-08T08:00:31.645247Z",
+    "lead_time": 19.687
+  },
+  {
+    "text": " 计算机指令系统中寻址方式取得操作数最慢的是（）A.寄存器间寻址 B.基址寻址 C.存储器间寻址 D.相对寻址 正确答案： C 关联评价点的名称：计算机组成原理 ",
+    "id": 33,
+    "label": [
+      {
+        "start": 1,
+        "end": 24,
+        "text": "计算机指令系统中寻址方式取得操作数最慢的是（）",
+        "labels": [
+          "stem"
+        ]
+      },
+      {
+        "start": 24,
+        "end": 32,
+        "text": "A.寄存器间寻址",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 33,
+        "end": 39,
+        "text": "B.基址寻址",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 40,
+        "end": 48,
+        "text": "C.存储器间寻址",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 49,
+        "end": 55,
+        "text": "D.相对寻址",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 56,
+        "end": 63,
+        "text": "正确答案： C",
+        "labels": [
+          "answer"
+        ]
+      },
+      {
+        "start": 64,
+        "end": 80,
+        "text": "关联评价点的名称：计算机组成原理",
+        "labels": [
+          "class"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 32,
+    "created_at": "2022-12-08T08:00:11.697427Z",
+    "updated_at": "2022-12-08T08:00:11.697427Z",
+    "lead_time": 21.837
+  },
+  {
+    "text": " 在操作系统中，用户在使用I/O设备时，通常采用( ) A.物理设备名 B.逻辑设备名 C.虚拟设备名 D.设备牌号 正确答案： B 关联评价点的名称：计算机组成原理 ",
+    "id": 32,
+    "label": [
+      {
+        "start": 1,
+        "end": 27,
+        "text": "在操作系统中，用户在使用I/O设备时，通常采用( )",
+        "labels": [
+          "stem"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 35,
+        "text": "A.物理设备名",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 36,
+        "end": 43,
+        "text": "B.逻辑设备名",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 44,
+        "end": 51,
+        "text": "C.虚拟设备名",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 52,
+        "end": 58,
+        "text": "D.设备牌号",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 59,
+        "end": 66,
+        "text": "正确答案： B",
+        "labels": [
+          "answer"
+        ]
+      },
+      {
+        "start": 67,
+        "end": 83,
+        "text": "关联评价点的名称：计算机组成原理",
+        "labels": [
+          "class"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 31,
+    "created_at": "2022-12-08T07:59:49.573338Z",
+    "updated_at": "2022-12-08T07:59:49.573338Z",
+    "lead_time": 18.839
+  },
+  {
+    "text": " 操作系统采用缓冲技术的目的是为了增强系统( )的能力 A.串行操作 B.控制操作 C.重执操作 D.并行操作 正确答案： D 关联评价点的名称：计算机组成原理 ",
+    "id": 31,
+    "label": [
+      {
+        "start": 1,
+        "end": 27,
+        "text": "操作系统采用缓冲技术的目的是为了增强系统( )的能力",
+        "labels": [
+          "stem"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 34,
+        "text": "A.串行操作",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 35,
+        "end": 41,
+        "text": "B.控制操作",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 42,
+        "end": 48,
+        "text": "C.重执操作",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 49,
+        "end": 55,
+        "text": "D.并行操作",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 56,
+        "end": 63,
+        "text": "正确答案： D",
+        "labels": [
+          "answer"
+        ]
+      },
+      {
+        "start": 64,
+        "end": 80,
+        "text": "关联评价点的名称：计算机组成原理",
+        "labels": [
+          "class"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 30,
+    "created_at": "2022-12-08T07:59:30.472030Z",
+    "updated_at": "2022-12-08T07:59:30.472030Z",
+    "lead_time": 25.682
+  },
+  {
+    "text": " 操作系统内核与用户程序，应用程序之间的接口是( ) A.shell命令 B.图形界面 C.系统调用 D.语言函数 正确答案： C 关联评价点的名称：计算机组成原理 ",
+    "id": 30,
+    "label": [
+      {
+        "start": 1,
+        "end": 26,
+        "text": "操作系统内核与用户程序，应用程序之间的接口是( )",
+        "labels": [
+          "stem"
+        ]
+      },
+      {
+        "start": 27,
+        "end": 36,
+        "text": "A.shell命令",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 37,
+        "end": 43,
+        "text": "B.图形界面",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 44,
+        "end": 50,
+        "text": "C.系统调用",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 51,
+        "end": 57,
+        "text": "D.语言函数",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 58,
+        "end": 65,
+        "text": "正确答案： C",
+        "labels": [
+          "answer"
+        ]
+      },
+      {
+        "start": 66,
+        "end": 82,
+        "text": "关联评价点的名称：计算机组成原理",
+        "labels": [
+          "class"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 29,
+    "created_at": "2022-12-08T07:59:04.519701Z",
+    "updated_at": "2022-12-08T07:59:04.519701Z",
+    "lead_time": 236.088
+  },
+  {
+    "text": " 在计算机系统中，操作系统是( ) A.一般应用软件 B.核心系统软件 C.用户应用软件 D.系统支撑软件 正确答案： B 关联评价点的名称：计算机组成原理 ",
+    "id": 29,
+    "label": [
+      {
+        "start": 1,
+        "end": 17,
+        "text": "在计算机系统中，操作系统是( )",
+        "labels": [
+          "stem"
+        ]
+      },
+      {
+        "start": 18,
+        "end": 26,
+        "text": "A.一般应用软件",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 27,
+        "end": 35,
+        "text": "B.核心系统软件",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 36,
+        "end": 44,
+        "text": "C.用户应用软件",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 45,
+        "end": 53,
+        "text": "D.系统支撑软件",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 54,
+        "end": 61,
+        "text": "正确答案： B",
+        "labels": [
+          "answer"
+        ]
+      },
+      {
+        "start": 62,
+        "end": 78,
+        "text": "关联评价点的名称：计算机组成原理",
+        "labels": [
+          "class"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 28,
+    "created_at": "2022-12-08T07:55:08.164250Z",
+    "updated_at": "2022-12-08T07:55:08.164250Z",
+    "lead_time": 28.755
+  },
+  {
+    "text": " 计算机系统的组成包括( ) A.程序和数据 B.计算机硬件和计算机软件 C.处理器和内存 D.处理器,存储器和外围设备 正确答案： B 关联评价点的名称：计算机组成原理",
+    "id": 28,
+    "label": [
+      {
+        "start": 1,
+        "end": 14,
+        "text": "计算机系统的组成包括( )",
+        "labels": [
+          "stem"
+        ]
+      },
+      {
+        "start": 15,
+        "end": 22,
+        "text": "A.程序和数据",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 23,
+        "end": 36,
+        "text": "B.计算机硬件和计算机软件",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 37,
+        "end": 45,
+        "text": "C.处理器和内存",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 46,
+        "end": 60,
+        "text": "D.处理器,存储器和外围设备",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 61,
+        "end": 68,
+        "text": "正确答案： B",
+        "labels": [
+          "answer"
+        ]
+      },
+      {
+        "start": 69,
+        "end": 85,
+        "text": "关联评价点的名称：计算机组成原理",
+        "labels": [
+          "class"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 27,
+    "created_at": "2022-12-08T07:54:20.060506Z",
+    "updated_at": "2022-12-08T07:54:20.060506Z",
+    "lead_time": 258.46
+  },
+  {
+    "text": " 在下列选项中，属于预防死锁的方法是( ) A.剥夺资源法 B.资源分配图简化法 C.资源随意分配 D.银行家算法 正确答案： B 关联评价点的名称：计算机组成原理 ",
+    "id": 27,
+    "label": [
+      {
+        "start": 1,
+        "end": 21,
+        "text": "在下列选项中，属于预防死锁的方法是( )",
+        "labels": [
+          "stem"
+        ]
+      },
+      {
+        "start": 22,
+        "end": 29,
+        "text": "A.剥夺资源法",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 30,
+        "end": 40,
+        "text": "B.资源分配图简化法",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 41,
+        "end": 49,
+        "text": "C.资源随意分配",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 50,
+        "end": 57,
+        "text": "D.银行家算法",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 58,
+        "end": 65,
+        "text": "正确答案： B",
+        "labels": [
+          "answer"
+        ]
+      },
+      {
+        "start": 66,
+        "end": 82,
+        "text": "关联评价点的名称：计算机组成原理",
+        "labels": [
+          "class"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 26,
+    "created_at": "2022-12-08T07:50:01.013676Z",
+    "updated_at": "2022-12-08T07:50:01.013676Z",
+    "lead_time": 23.705
+  },
+  {
+    "text": " 在操作系统中，有一组进程，进程之间具有直接相互制约性这组并发进程之间( ) A.必定无关 B.必定相关 C.可能相关 D.相关程度相同 正确答案： B 关联评价点的名称：计算机组成原理 ",
+    "id": 26,
+    "label": [
+      {
+        "start": 1,
+        "end": 38,
+        "text": "在操作系统中，有一组进程，进程之间具有直接相互制约性这组并发进程之间( )",
+        "labels": [
+          "stem"
+        ]
+      },
+      {
+        "start": 39,
+        "end": 45,
+        "text": "A.必定无关",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 46,
+        "end": 52,
+        "text": "B.必定相关",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 53,
+        "end": 59,
+        "text": "C.可能相关",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 60,
+        "end": 68,
+        "text": "D.相关程度相同",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 69,
+        "end": 76,
+        "text": "正确答案： B",
+        "labels": [
+          "answer"
+        ]
+      },
+      {
+        "start": 77,
+        "end": 93,
+        "text": "关联评价点的名称：计算机组成原理",
+        "labels": [
+          "class"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 25,
+    "created_at": "2022-12-08T07:49:37.001862Z",
+    "updated_at": "2022-12-08T07:49:37.001862Z",
+    "lead_time": 19.967
+  },
+  {
+    "text": " 操作系统中一个进程是( ) A.由协处理机执行的一个程序 B.一个独立的程序+数据集 C.PCB结构与程序和数据的组合 D.一个独立的程序 正确答案： C 关联评价点的名称：计算机组成原理 ",
+    "id": 25,
+    "label": [
+      {
+        "start": 1,
+        "end": 14,
+        "text": "操作系统中一个进程是( )",
+        "labels": [
+          "stem"
+        ]
+      },
+      {
+        "start": 15,
+        "end": 29,
+        "text": "A.由协处理机执行的一个程序",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 30,
+        "end": 43,
+        "text": "B.一个独立的程序+数据集",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 44,
+        "end": 60,
+        "text": "C.PCB结构与程序和数据的组合",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 61,
+        "end": 70,
+        "text": "D.一个独立的程序",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 71,
+        "end": 78,
+        "text": "正确答案： C",
+        "labels": [
+          "answer"
+        ]
+      },
+      {
+        "start": 79,
+        "end": 95,
+        "text": "关联评价点的名称：计算机组成原理",
+        "labels": [
+          "class"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 24,
+    "created_at": "2022-12-08T07:49:16.783881Z",
+    "updated_at": "2022-12-08T07:49:16.783881Z",
+    "lead_time": 24.424
+  },
+  {
+    "text": " 在下面关于并发性的叙述众正确的是( ) A.并发性是指若干事件在同一时刻发生 B.并发性是指若干事件在不同时刻发生 C.并发性是指若干事件在同一时间间隔发生 D.并发性是指若干事件在不同时间间隔发生 正确答案： C 关联评价点的名称：计算机组成原理 ",
+    "id": 24,
+    "label": [
+      {
+        "start": 1,
+        "end": 20,
+        "text": "在下面关于并发性的叙述众正确的是( )",
+        "labels": [
+          "stem"
+        ]
+      },
+      {
+        "start": 21,
+        "end": 39,
+        "text": "A.并发性是指若干事件在同一时刻发生",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 40,
+        "end": 58,
+        "text": "B.并发性是指若干事件在不同时刻发生",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 59,
+        "end": 79,
+        "text": "C.并发性是指若干事件在同一时间间隔发生",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 80,
+        "end": 100,
+        "text": "D.并发性是指若干事件在不同时间间隔发生",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 101,
+        "end": 108,
+        "text": "正确答案： C",
+        "labels": [
+          "answer"
+        ]
+      },
+      {
+        "start": 109,
+        "end": 125,
+        "text": "关联评价点的名称：计算机组成原理",
+        "labels": [
+          "class"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 23,
+    "created_at": "2022-12-08T07:48:51.650129Z",
+    "updated_at": "2022-12-08T07:48:51.650129Z",
+    "lead_time": 1760.653
+  },
+  {
+    "text": " 下面（）不是微软操作系统中常见的文件系统A.CFS B.CDFS C.FAT D.NTFS 正确答案： A 关联评价点的名称：计算机组成原理 ",
+    "id": 23,
+    "label": [
+      {
+        "start": 1,
+        "end": 21,
+        "text": "下面（）不是微软操作系统中常见的文件系统",
+        "labels": [
+          "stem"
+        ]
+      },
+      {
+        "start": 21,
+        "end": 26,
+        "text": "A.CFS",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 27,
+        "end": 33,
+        "text": "B.CDFS",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 34,
+        "end": 39,
+        "text": "C.FAT",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 40,
+        "end": 46,
+        "text": "D.NTFS",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 47,
+        "end": 54,
+        "text": "正确答案： A",
+        "labels": [
+          "answer"
+        ]
+      },
+      {
+        "start": 55,
+        "end": 71,
+        "text": "关联评价点的名称：计算机组成原理",
+        "labels": [
+          "class"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 22,
+    "created_at": "2022-12-08T07:19:30.535170Z",
+    "updated_at": "2022-12-08T07:19:30.535170Z",
+    "lead_time": 60.284
+  },
+  {
+    "text": " 资源描述框架（RDF）被表示成一种特殊的（）文档 A.Excel B.XML C.TXT D.HTML 正确答案： B 关联评价点的名称：计算机组成原理 ",
+    "id": 22,
+    "label": [
+      {
+        "start": 1,
+        "end": 25,
+        "text": "资源描述框架（RDF）被表示成一种特殊的（）文档",
+        "labels": [
+          "stem"
+        ]
+      },
+      {
+        "start": 26,
+        "end": 33,
+        "text": "A.Excel",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 34,
+        "end": 39,
+        "text": "B.XML",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 40,
+        "end": 45,
+        "text": "C.TXT",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 46,
+        "end": 52,
+        "text": "D.HTML",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 53,
+        "end": 60,
+        "text": "正确答案： B",
+        "labels": [
+          "answer"
+        ]
+      },
+      {
+        "start": 61,
+        "end": 77,
+        "text": "关联评价点的名称：计算机组成原理",
+        "labels": [
+          "class"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 21,
+    "created_at": "2022-12-08T07:18:29.933223Z",
+    "updated_at": "2022-12-08T07:18:29.933223Z",
+    "lead_time": 51.584
+  },
+  {
+    "text": " 在以下的存储管理方案中，能扩充主存容量的是（）A.固定式分区分配 B.可变式分区分配 C.分页虚拟存储管理 D.基本页式存储管理 正确答案： C 关联评价点的名称：计算机组成原理 ",
+    "id": 21,
+    "label": [
+      {
+        "start": 1,
+        "end": 24,
+        "text": "在以下的存储管理方案中，能扩充主存容量的是（）",
+        "labels": [
+          "stem"
+        ]
+      },
+      {
+        "start": 24,
+        "end": 33,
+        "text": "A.固定式分区分配",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 34,
+        "end": 43,
+        "text": "B.可变式分区分配",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 44,
+        "end": 54,
+        "text": "C.分页虚拟存储管理",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 55,
+        "end": 65,
+        "text": "D.基本页式存储管理",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 66,
+        "end": 73,
+        "text": "正确答案： C",
+        "labels": [
+          "answer"
+        ]
+      },
+      {
+        "start": 74,
+        "end": 90,
+        "text": "关联评价点的名称：计算机组成原理",
+        "labels": [
+          "class"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 20,
+    "created_at": "2022-12-08T07:17:38.073999Z",
+    "updated_at": "2022-12-08T07:17:38.073999Z",
+    "lead_time": 2456.616
+  },
+  {
+    "text": " 在一台Windows Server 2003系统的DHCP客户机上，运行（）命令可以更新其IP地址租约 A.ipconfig /all; B.ipconfig /renew; C.ipconfig /release; D.dhcp /renew 正确答案： B 关联评价点的名称：计算机组成原理 ",
+    "id": 20,
+    "label": [
+      {
+        "start": 1,
+        "end": 52,
+        "text": "在一台Windows Server 2003系统的DHCP客户机上，运行（）命令可以更新其IP地址租约",
+        "labels": [
+          "stem"
+        ]
+      },
+      {
+        "start": 53,
+        "end": 69,
+        "text": "A.ipconfig /all;",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 70,
+        "end": 88,
+        "text": "B.ipconfig /renew;",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 89,
+        "end": 109,
+        "text": "C.ipconfig /release;",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 110,
+        "end": 123,
+        "text": "D.dhcp /renew",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 124,
+        "end": 131,
+        "text": "正确答案： B",
+        "labels": [
+          "answer"
+        ]
+      },
+      {
+        "start": 132,
+        "end": 148,
+        "text": "关联评价点的名称：计算机组成原理",
+        "labels": [
+          "class"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 19,
+    "created_at": "2022-12-08T06:36:41.166679Z",
+    "updated_at": "2022-12-08T06:36:41.166679Z",
+    "lead_time": 30.34
+  },
+  {
+    "text": " 在一行结束位置加上什么符号，表示未结束，下一行继续 A./ B.\\ C.; D.| 正确答案： B 关联评价点的名称：计算机组成原理 ",
+    "id": 19,
+    "label": [
+      {
+        "start": 1,
+        "end": 26,
+        "text": "在一行结束位置加上什么符号，表示未结束，下一行继续",
+        "labels": [
+          "stem"
+        ]
+      },
+      {
+        "start": 27,
+        "end": 30,
+        "text": "A./",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 31,
+        "end": 34,
+        "text": "B.\\",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 35,
+        "end": 38,
+        "text": "C.;",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 39,
+        "end": 42,
+        "text": "D.|",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 43,
+        "end": 50,
+        "text": "正确答案： B",
+        "labels": [
+          "answer"
+        ]
+      },
+      {
+        "start": 51,
+        "end": 67,
+        "text": "关联评价点的名称：计算机组成原理",
+        "labels": [
+          "class"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 18,
+    "created_at": "2022-12-08T06:36:05.454075Z",
+    "updated_at": "2022-12-08T06:36:05.454075Z",
+    "lead_time": 24.065
+  },
+  {
+    "text": " 在现代操作系统中采用缓冲技术的主要目的是（）A.改善用户编程环境 B.提高CPU的处理速度 C.提高CPU和设备之间的并行程度 D.实现与设备无关性 正确答案： C 关联评价点的名称：计算机组成原理 ",
+    "id": 18,
+    "label": [
+      {
+        "start": 1,
+        "end": 23,
+        "text": "在现代操作系统中采用缓冲技术的主要目的是（）",
+        "labels": [
+          "stem"
+        ]
+      },
+      {
+        "start": 23,
+        "end": 33,
+        "text": "A.改善用户编程环境",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 34,
+        "end": 46,
+        "text": "B.提高CPU的处理速度",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 47,
+        "end": 64,
+        "text": "C.提高CPU和设备之间的并行程度",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 65,
+        "end": 75,
+        "text": "D.实现与设备无关性",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 76,
+        "end": 83,
+        "text": "正确答案： C",
+        "labels": [
+          "answer"
+        ]
+      },
+      {
+        "start": 84,
+        "end": 100,
+        "text": "关联评价点的名称：计算机组成原理",
+        "labels": [
+          "class"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 17,
+    "created_at": "2022-12-08T06:35:41.131530Z",
+    "updated_at": "2022-12-08T06:35:41.131530Z",
+    "lead_time": 24.812
+  },
+  {
+    "text": " 在文件系统中，用户以_方式直接使用外存 A.逻辑地址 B.物理地址C.名字空间 D.虚拟地址 正确答案： C 关联评价点的名称：计算机组成原理 ",
+    "id": 17,
+    "label": [
+      {
+        "start": 1,
+        "end": 20,
+        "text": "在文件系统中，用户以_方式直接使用外存",
+        "labels": [
+          "stem"
+        ]
+      },
+      {
+        "start": 21,
+        "end": 27,
+        "text": "A.逻辑地址",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 34,
+        "text": "B.物理地址",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 34,
+        "end": 40,
+        "text": "C.名字空间",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 41,
+        "end": 47,
+        "text": "D.虚拟地址",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 48,
+        "end": 55,
+        "text": "正确答案： C",
+        "labels": [
+          "answer"
+        ]
+      },
+      {
+        "start": 56,
+        "end": 72,
+        "text": "关联评价点的名称：计算机组成原理",
+        "labels": [
+          "class"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 16,
+    "created_at": "2022-12-08T06:35:16.071010Z",
+    "updated_at": "2022-12-08T06:35:16.071010Z",
+    "lead_time": 36.796
+  },
+  {
+    "text": " 在操作系统中，有一组进程，进程之间具有相互制约性这组并发进程之间（）A.必定无关 B.必定相关 C.可能相关 D.相关程度相同 正确答案： B 关联评价点的名称：计算机组成原理 ",
+    "id": 16,
+    "label": [
+      {
+        "start": 1,
+        "end": 35,
+        "text": "在操作系统中，有一组进程，进程之间具有相互制约性这组并发进程之间（）",
+        "labels": [
+          "stem"
+        ]
+      },
+      {
+        "start": 35,
+        "end": 41,
+        "text": "A.必定无关",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 42,
+        "end": 48,
+        "text": "B.必定相关",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 49,
+        "end": 55,
+        "text": "C.可能相关",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 56,
+        "end": 64,
+        "text": "D.相关程度相同",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 65,
+        "end": 72,
+        "text": "正确答案： B",
+        "labels": [
+          "answer"
+        ]
+      },
+      {
+        "start": 73,
+        "end": 89,
+        "text": "关联评价点的名称：计算机组成原理",
+        "labels": [
+          "class"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 15,
+    "created_at": "2022-12-08T06:34:38.983991Z",
+    "updated_at": "2022-12-08T06:34:38.983991Z",
+    "lead_time": 39.816
+  },
+  {
+    "text": " 在windows系统中，下列哪个命令不能用于查看操作系统的版本号 A.cmd.exe B.systeminfo C.winver D.version 正确答案： D 关联评价点的名称：计算机组成原理 ",
+    "id": 15,
+    "label": [
+      {
+        "start": 1,
+        "end": 33,
+        "text": "在windows系统中，下列哪个命令不能用于查看操作系统的版本号",
+        "labels": [
+          "stem"
+        ]
+      },
+      {
+        "start": 34,
+        "end": 43,
+        "text": "A.cmd.exe",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 44,
+        "end": 56,
+        "text": "B.systeminfo",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 57,
+        "end": 65,
+        "text": "C.winver",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 66,
+        "end": 75,
+        "text": "D.version",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 76,
+        "end": 83,
+        "text": "正确答案： D",
+        "labels": [
+          "answer"
+        ]
+      },
+      {
+        "start": 84,
+        "end": 100,
+        "text": "关联评价点的名称：计算机组成原理",
+        "labels": [
+          "class"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 14,
+    "created_at": "2022-12-08T06:33:58.584841Z",
+    "updated_at": "2022-12-08T06:33:58.584841Z",
+    "lead_time": 215.162
+  },
+  {
+    "text": " 与设备分配策略有关的因素有：设备固有属性、设备分配算法、（）和设备的独立性 A.设备的使用频度 B.设备分配中的安全性 C.设备的配套性 D.设备使用的周期性 正确答案： B 关联评价点的名称：计算机组成原理 ",
+    "id": 14,
+    "label": [
+      {
+        "start": 1,
+        "end": 38,
+        "text": "与设备分配策略有关的因素有：设备固有属性、设备分配算法、（）和设备的独立性",
+        "labels": [
+          "stem"
+        ]
+      },
+      {
+        "start": 39,
+        "end": 48,
+        "text": "A.设备的使用频度",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 49,
+        "end": 60,
+        "text": "B.设备分配中的安全性",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 61,
+        "end": 69,
+        "text": "C.设备的配套性",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 70,
+        "end": 80,
+        "text": "D.设备使用的周期性",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 81,
+        "end": 88,
+        "text": "正确答案： B",
+        "labels": [
+          "answer"
+        ]
+      },
+      {
+        "start": 89,
+        "end": 105,
+        "text": "关联评价点的名称：计算机组成原理",
+        "labels": [
+          "class"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 13,
+    "created_at": "2022-12-08T06:30:23.074986Z",
+    "updated_at": "2022-12-08T06:30:23.074986Z",
+    "lead_time": 27.997
+  },
+  {
+    "text": " 有一台系统为Windows Server 2003 的计算机，在其NTFS分区有一个共享文件夹，用户xiaoli对该文件的共享权 限为读取，可是他通过网络访问该文件时却收到拒绝访问的提示，可能的原因是（）A.用户帐户xiaoli不属于everyone组 B.用户帐户xiaoli不是该文件的所有者 C.用户帐户xiaoli没有相应的共享权限 D.用户帐户xiaoli没有相应的NTFS权限 正确答案： D 关联评价点的名称：计算机组成原理 ",
+    "id": 13,
+    "label": [
+      {
+        "start": 1,
+        "end": 103,
+        "text": "有一台系统为Windows Server 2003 的计算机，在其NTFS分区有一个共享文件夹，用户xiaoli对该文件的共享权 限为读取，可是他通过网络访问该文件时却收到拒绝访问的提示，可能的原因是（）",
+        "labels": [
+          "stem"
+        ]
+      },
+      {
+        "start": 103,
+        "end": 127,
+        "text": "A.用户帐户xiaoli不属于everyone组",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 128,
+        "end": 149,
+        "text": "B.用户帐户xiaoli不是该文件的所有者",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 150,
+        "end": 171,
+        "text": "C.用户帐户xiaoli没有相应的共享权限",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 172,
+        "end": 195,
+        "text": "D.用户帐户xiaoli没有相应的NTFS权限",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 196,
+        "end": 203,
+        "text": "正确答案： D",
+        "labels": [
+          "answer"
+        ]
+      },
+      {
+        "start": 204,
+        "end": 220,
+        "text": "关联评价点的名称：计算机组成原理",
+        "labels": [
+          "class"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 12,
+    "created_at": "2022-12-08T06:29:54.795162Z",
+    "updated_at": "2022-12-08T06:29:54.795162Z",
+    "lead_time": 45.464
+  },
+  {
+    "text": " 已知“ 装” 字的拼音输入码是“ zhuang” ，而“ 大” 字的拼音输入码是“ da” ，则存储它们内码分别需要的字 节个数是（）A.6,2 B.3,1 C.2,2 D.3,2 正确答案： C 关联评价点的名称：计算机组成原理 ",
+    "id": 12,
+    "label": [
+      {
+        "start": 1,
+        "end": 68,
+        "text": "已知“ 装” 字的拼音输入码是“ zhuang” ，而“ 大” 字的拼音输入码是“ da” ，则存储它们内码分别需要的字 节个数是（）",
+        "labels": [
+          "stem"
+        ]
+      },
+      {
+        "start": 68,
+        "end": 73,
+        "text": "A.6,2",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 74,
+        "end": 79,
+        "text": "B.3,1",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 80,
+        "end": 85,
+        "text": "C.2,2",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 86,
+        "end": 91,
+        "text": "D.3,2",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 92,
+        "end": 99,
+        "text": "正确答案： C",
+        "labels": [
+          "answer"
+        ]
+      },
+      {
+        "start": 100,
+        "end": 116,
+        "text": "关联评价点的名称：计算机组成原理",
+        "labels": [
+          "class"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 11,
+    "created_at": "2022-12-08T06:29:09.077123Z",
+    "updated_at": "2022-12-08T06:29:09.077123Z",
+    "lead_time": 32.365
+  },
+  {
+    "text": " 一种既有利于短小作业又兼顾到长作业的作业调度算法是（）A.先来先服务 B.轮转 C.最高响应比优先 D.均衡调度 正确答案： C 关联评价点的名称：计算机组成原理",
+    "id": 11,
+    "label": [
+      {
+        "start": 1,
+        "end": 28,
+        "text": "一种既有利于短小作业又兼顾到长作业的作业调度算法是（）",
+        "labels": [
+          "stem"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 35,
+        "text": "A.先来先服务",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 36,
+        "end": 40,
+        "text": "B.轮转",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 41,
+        "end": 50,
+        "text": "C.最高响应比优先",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 51,
+        "end": 57,
+        "text": "D.均衡调度",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 58,
+        "end": 65,
+        "text": "正确答案： C",
+        "labels": [
+          "answer"
+        ]
+      },
+      {
+        "start": 66,
+        "end": 82,
+        "text": "关联评价点的名称：计算机组成原理",
+        "labels": [
+          "class"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 10,
+    "created_at": "2022-12-08T06:28:36.454149Z",
+    "updated_at": "2022-12-08T06:28:36.454149Z",
+    "lead_time": 47.432
+  },
+  {
+    "text": " 下面对操作系统描述错误的是（）A.操作系统是系统资源管理程序 B.操作系统是其他软件支撑程序 C.操作系统是系统程序的集合 D.操作系统是为用户提供服务的程序 正确答案： C 关联评价点的名称：计算机组成原理 ",
+    "id": 10,
+    "label": [
+      {
+        "start": 1,
+        "end": 16,
+        "text": "下面对操作系统描述错误的是（）",
+        "labels": [
+          "stem"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 31,
+        "text": "A.操作系统是系统资源管理程序",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 32,
+        "end": 47,
+        "text": "B.操作系统是其他软件支撑程序",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 48,
+        "end": 62,
+        "text": "C.操作系统是系统程序的集合",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 63,
+        "end": 80,
+        "text": "D.操作系统是为用户提供服务的程序",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 81,
+        "end": 88,
+        "text": "正确答案： C",
+        "labels": [
+          "answer"
+        ]
+      },
+      {
+        "start": 89,
+        "end": 105,
+        "text": "关联评价点的名称：计算机组成原理",
+        "labels": [
+          "class"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9,
+    "created_at": "2022-12-08T06:27:48.742040Z",
+    "updated_at": "2022-12-08T06:27:48.742040Z",
+    "lead_time": 27.928
+  },
+  {
+    "text": " 下列关于Windows注册表的描述不正确的是（）A.注册表是一个以层级结构保存和检索的复杂数据库 B.注册表直接控制Windows的启动、硬件驱动程序的装载以及一些Windows应用程序的运行 C.注册表采用键和键值来描述登录项和数据 D.注册表中的跟键可以删除，而子键不可以 正确答案： D 关联评价点的名称：计算机组成原理 ",
+    "id": 9,
+    "label": [
+      {
+        "start": 1,
+        "end": 25,
+        "text": "下列关于Windows注册表的描述不正确的是（）",
+        "labels": [
+          "stem"
+        ]
+      },
+      {
+        "start": 25,
+        "end": 49,
+        "text": "A.注册表是一个以层级结构保存和检索的复杂数据库",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 50,
+        "end": 97,
+        "text": "B.注册表直接控制Windows的启动、硬件驱动程序的装载以及一些Windows应用程序的运行",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 98,
+        "end": 118,
+        "text": "C.注册表采用键和键值来描述登录项和数据",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 119,
+        "end": 139,
+        "text": "D.注册表中的跟键可以删除，而子键不可以",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 140,
+        "end": 147,
+        "text": "正确答案： D",
+        "labels": [
+          "answer"
+        ]
+      },
+      {
+        "start": 148,
+        "end": 164,
+        "text": "关联评价点的名称：计算机组成原理",
+        "labels": [
+          "class"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 8,
+    "created_at": "2022-12-08T06:27:20.470615Z",
+    "updated_at": "2022-12-08T06:27:20.470615Z",
+    "lead_time": 11175.951
+  },
+  {
+    "text": " 计算机中数据的表示形式是 A.八进制 B.十进制 C.二进制 D.十六进制 正确答案： C 关联评价点的名称：计算机组成原理 ",
+    "id": 8,
+    "label": [
+      {
+        "start": 1,
+        "end": 13,
+        "text": "计算机中数据的表示形式是",
+        "labels": [
+          "stem"
+        ]
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "text": "A.八进制",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 25,
+        "text": "B.十进制",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 26,
+        "end": 31,
+        "text": "C.二进制",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 32,
+        "end": 38,
+        "text": "D.十六进制",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 39,
+        "end": 46,
+        "text": "正确答案： C",
+        "labels": [
+          "answer"
+        ]
+      },
+      {
+        "start": 47,
+        "end": 63,
+        "text": "关联评价点的名称：计算机组成原理",
+        "labels": [
+          "class"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 7,
+    "created_at": "2022-12-08T03:21:04.231900Z",
+    "updated_at": "2022-12-08T03:21:04.231900Z",
+    "lead_time": 33.839
+  },
+  {
+    "text": " 计算机系统中，使用显示器一般需配有（）A.网卡 B.声卡 C.图形加速卡 D.显示卡 正确答案： D 关联评价点的名称：计算机组成原理 ",
+    "id": 5,
+    "label": [
+      {
+        "start": 1,
+        "end": 20,
+        "text": "计算机系统中，使用显示器一般需配有（）",
+        "labels": [
+          "stem"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 24,
+        "text": "A.网卡",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 25,
+        "end": 29,
+        "text": "B.声卡",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 30,
+        "end": 37,
+        "text": "C.图形加速卡",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 38,
+        "end": 43,
+        "text": "D.显示卡",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 44,
+        "end": 51,
+        "text": "正确答案： D",
+        "labels": [
+          "answer"
+        ]
+      },
+      {
+        "start": 52,
+        "end": 68,
+        "text": "关联评价点的名称：计算机组成原理",
+        "labels": [
+          "class"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 5,
+    "created_at": "2022-12-08T02:08:13.958746Z",
+    "updated_at": "2022-12-08T02:08:13.958746Z",
+    "lead_time": 44.852
+  },
+  {
+    "text": " 计算机能直接识别的语言是（）。 A.高级程序语言 B.?汇编语言 C.机器语言（或称指令系统）D.语言?正确答案： C 关联评价点的名称：计算机组成原理 ",
+    "id": 4,
+    "label": [
+      {
+        "start": 1,
+        "end": 16,
+        "text": "计算机能直接识别的语言是（）。",
+        "labels": [
+          "stem"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 25,
+        "text": "A.高级程序语言",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 26,
+        "end": 33,
+        "text": "B.?汇编语言",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 34,
+        "end": 48,
+        "text": "C.机器语言（或称指令系统）",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 48,
+        "end": 53,
+        "text": "D.语言?",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 53,
+        "end": 60,
+        "text": "正确答案： C",
+        "labels": [
+          "answer"
+        ]
+      },
+      {
+        "start": 61,
+        "end": 77,
+        "text": "关联评价点的名称：计算机组成原理",
+        "labels": [
+          "class"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 4,
+    "created_at": "2022-12-08T02:07:28.648154Z",
+    "updated_at": "2022-12-08T02:07:28.648154Z",
+    "lead_time": 157.606
+  },
+  {
+    "text": " 计算机理想的工作湿度应为（）A.10%～30% B.30%～80% C.45%～65% D.60%～80% 正确答案： B 关联评价点的名称：计算机组成原理 ",
+    "id": 3,
+    "label": [
+      {
+        "start": 1,
+        "end": 15,
+        "text": "计算机理想的工作湿度应为（）",
+        "labels": [
+          "stem"
+        ]
+      },
+      {
+        "start": 15,
+        "end": 24,
+        "text": "A.10%～30%",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 25,
+        "end": 34,
+        "text": "B.30%～80%",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 35,
+        "end": 44,
+        "text": "C.45%～65%",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 45,
+        "end": 54,
+        "text": "D.60%～80%",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 55,
+        "end": 62,
+        "text": "正确答案： B",
+        "labels": [
+          "answer"
+        ]
+      },
+      {
+        "start": 63,
+        "end": 79,
+        "text": "关联评价点的名称：计算机组成原理",
+        "labels": [
+          "class"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 3,
+    "created_at": "2022-12-08T02:04:50.441283Z",
+    "updated_at": "2022-12-08T02:04:50.441283Z",
+    "lead_time": 319.983
+  },
+  {
+    "text": " 计算机存储器中，一个字节由（）位二进制位组成。? A.4 B.8 C.16 D.32 正确答案： B 关联评价点的名称：计算机组成原理 ",
+    "id": 2,
+    "label": [
+      {
+        "start": 1,
+        "end": 25,
+        "text": "计算机存储器中，一个字节由（）位二进制位组成。?",
+        "labels": [
+          "stem"
+        ]
+      },
+      {
+        "start": 26,
+        "end": 29,
+        "text": "A.4",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 30,
+        "end": 33,
+        "text": "B.8",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 34,
+        "end": 38,
+        "text": "C.16",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 39,
+        "end": 43,
+        "text": "D.32",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 44,
+        "end": 51,
+        "text": "正确答案： B",
+        "labels": [
+          "answer"
+        ]
+      },
+      {
+        "start": 52,
+        "end": 68,
+        "text": "关联评价点的名称：计算机组成原理",
+        "labels": [
+          "class"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2,
+    "created_at": "2022-12-08T01:59:29.864322Z",
+    "updated_at": "2022-12-08T01:59:29.864322Z",
+    "lead_time": 69.685
+  },
+  {
+    "text": " 计算机不能从硬盘启动的原因，下列说法不正确的是（）A.硬盘没有连接电源线 B.硬盘没有连接数据线 C.硬盘没有建立两个以上分区 D.硬盘没有进行初始化 正确答案： C 关联评价点的名称：计算机组成原理 ",
+    "id": 1,
+    "label": [
+      {
+        "start": 1,
+        "end": 26,
+        "text": "计算机不能从硬盘启动的原因，下列说法不正确的是（）",
+        "labels": [
+          "stem"
+        ]
+      },
+      {
+        "start": 26,
+        "end": 37,
+        "text": "A.硬盘没有连接电源线",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 38,
+        "end": 49,
+        "text": "B.硬盘没有连接数据线",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 50,
+        "end": 64,
+        "text": "C.硬盘没有建立两个以上分区",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 65,
+        "end": 76,
+        "text": "D.硬盘没有进行初始化",
+        "labels": [
+          "option"
+        ]
+      },
+      {
+        "start": 77,
+        "end": 84,
+        "text": "正确答案： C",
+        "labels": [
+          "answer"
+        ]
+      },
+      {
+        "start": 85,
+        "end": 101,
+        "text": "关联评价点的名称：计算机组成原理",
+        "labels": [
+          "class"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1,
+    "created_at": "2022-12-08T01:58:10.205080Z",
+    "updated_at": "2022-12-08T01:58:10.205080Z",
+    "lead_time": 190.974
+  }
+]
